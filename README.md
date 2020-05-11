@@ -1,6 +1,6 @@
 # Classifying Twitter Feeds
 
-In partnership with the U.K Office for National Statistics, this project aims to classify Twitter feeds by bots, organisations and real users.
+In partnership with the Office for National Statistics (UK), this project aims to classify live Twitter feeds into bots, organisations and real users.
 
 ### Prerequisites
 
