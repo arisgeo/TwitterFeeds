@@ -17,11 +17,11 @@ The code for the features are across several notebooks as we siloed feature engi
 
 ### Models
 
-The bot detection model should be ran first as we filter these our for the business model.
+We recommend running the bot detection model first, the business model filters these out first!
 
 ### Analysis
 
-Some good examples of the three classes, sentiment and network analysis.
+Some useful examples of the three classes, sentiment and network analysis.
 
 ### Authors
 
