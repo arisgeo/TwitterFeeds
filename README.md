@@ -29,6 +29,6 @@ See the list of [contributors](https://github.com/arisgeo/TwitterFeeds/contribut
 
 ### Acknowledgments
 
-* Thanks to the help from Jazz from the ONS and support from our course peers.
+Thanks to the help from Jazz from the ONS and support from our course peers.
 
 
